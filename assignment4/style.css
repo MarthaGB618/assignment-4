@@ -1,0 +1,13 @@
+/*
+Theme Name: Assignment 4
+Theme URI: https://your-website.com/assignment-4/
+Description: Practice WordPress theme 
+Version: 1 
+Author: Martha Gates
+Author URI: https://marthagates.com/
+Tags: assigment, sample, practice
+600px */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+} 
